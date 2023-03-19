@@ -8,7 +8,7 @@ class dsl(object):
             print(f'{self.name} is president')
         elif self.name == "gyuwon":
             print(f'{self.name} is chongmu')
-        elif self.name == "chanhyung":
+        elif self.name == "namhun":
             print(f'{self.name} is haksul')
         else:
             print(f'{self.name}이 누구임?')
